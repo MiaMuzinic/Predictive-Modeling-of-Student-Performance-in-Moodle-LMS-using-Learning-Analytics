@@ -26,3 +26,7 @@ recommended to explore the underlying factors and additional
 features among test scores that can contribute to predictive
 modelling contributing to gender-based variations in student
 success and to refine the models for improved performance.
+
+**Keywords**—Moodle LMS, e-learning systems, educational
+data mining, predicting final grades, student performance,
+student success
